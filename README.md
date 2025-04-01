@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes Arısoy</h1>
 <h3 align="center">Frontend Developer || React Developer || Software Developer</h3>
 
-- 🌱 I’m currently learning **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, API**
+- 🌱 I’m currently working on **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Node.js, Npm ...**
 
-- 💬 Ask me about **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, API**
+- 💬 Ask me about **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Node.js, Npm ...**
 
 - 📫 How to reach me **enes.arisoy.85@gmail.com**
 
