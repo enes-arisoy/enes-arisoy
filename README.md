@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Arısoy</h1>
 <h3 align="center">Frontend Developer || React Developer || Software Developer</h3>
 
-- 🌱 I’m currently working on **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Node.js, Npm, TypeScript, Tailwind and Next.js**
+- 🌱 I’m currently working on **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Redux-Toolkit, Node.js, Npm, TypeScript, Tailwind CSS, Firebase and Next.js**
 
 - 💬 Ask me about **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Node.js, Npm TypeScript, Tailwind and Next.js**
 
