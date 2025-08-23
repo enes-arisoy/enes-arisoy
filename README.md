@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Enes Arısoy</h1>
-<h3 align="center">Frontend Developer || React Developer || Software Developer</h3>
-
 # 👋 Hi, I'm Enes Arısoy  
 
 💻 **Frontend Developer** | ⚛️ **React Developer** | 🖥️ **Software Developer**  
