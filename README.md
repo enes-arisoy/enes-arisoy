@@ -36,7 +36,7 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
@@ -44,9 +44,10 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesarisoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=kotlin,php,java" alt="Top Languages" />
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin,php,scss,css,html,c" alt="Top Languages" />
 </p>
+
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
