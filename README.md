@@ -36,15 +36,12 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=enesarisoy&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=enesarisoy&theme=tokyonight&hide_border=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/enesarisoy)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:enes.arisoy.85@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/enes-arisoy)
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
