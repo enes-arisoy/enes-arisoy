@@ -45,7 +45,7 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 </p>
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin,php,pug,python,c++,c#,c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin,php,pug,python,C++,c#,c" alt="Top Languages" />
 </p>
 
 
