@@ -1,17 +1,60 @@
 <h1 align="center">Hi 👋, I'm Enes Arısoy</h1>
 <h3 align="center">Frontend Developer || React Developer || Software Developer</h3>
 
-- 🌱 I’m currently working on **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Redux-Toolkit, Node.js, Npm, Unit Test, TypeScript, Tailwind CSS, Firebase and Next.js**
+# 👋 Hi, I'm Enes Arısoy  
 
-- 💬 Ask me about **Html5, Css3, Scss, Bootstrap, Git, JS, JSON, DOM, VDOM, API, GitHub, React, Redux, Node.js, Npm, Unit Test, TypeScript, Tailwind and Next.js**
+💻 **Frontend Developer** | ⚛️ **React Developer** | 🖥️ **Software Developer**  
 
-- 📫 How to reach me **enes.arisoy.85@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/enes-arisoy-927b21341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/enes-arisoy-927b21341" height="30" width="40" /></a>
-</p>
+## 🚀 About Me  
+🌱 Currently working with:  
+`Html5` | `Css3` | `Scss` | `Bootstrap` | `Git` | `JS` | `JSON` | `DOM` | `VDOM` | `API` | `GitHub` |  
+`React` | `Redux` | `Redux-Toolkit` | `TanStack Query` | `Node.js` | `Npm` | `Unit Test` | `TypeScript` |  
+`Tailwind CSS` | `Firebase` | `Next.js`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+💬 **Ask me about:**  
+Frontend Development, React Ecosystem, State Management, Testing, and Modern Web Technologies  
+
+📫 **Reach me at:**  
+📧 enes.arisoy.85@gmail.com  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
+
+### ⚛️ JavaScript Ecosystem  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=fff)  
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)  
+
+### ⚙️ Backend & Tools  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)  
+![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=enesarisoy&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true)  
+
+---
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+
 
