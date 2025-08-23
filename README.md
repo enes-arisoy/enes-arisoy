@@ -36,7 +36,6 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 
 ## 📊 GitHub Stats  
 
-<div flex>
   <p >
   <img src="https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
@@ -44,11 +43,9 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesarisoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-</div>
 
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin,php,pug,phyton,c++,c#,c" alt="Top Languages" />
+<p >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java,kotlin,php,pug,python,c++,c#,c" alt="Top Languages" />
 </p>
 
 
