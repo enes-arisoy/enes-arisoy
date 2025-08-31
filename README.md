@@ -8,7 +8,7 @@
 🌱 Currently working with:  
 `Html5` | `Css3` | `Scss` | `Bootstrap` | `Git` | `JS` | `JSON` | `DOM` | `VDOM` | `API` | `GitHub` |  
 `React` | `Redux` | `Redux-Toolkit` | `TanStack Query` | `Node.js` | `Npm` | `Unit Testing` | `TypeScript` |  
-`Tailwind CSS` | `Firebase` | `Next.js`
+`Tailwind CSS` | `Firebase` | `Next.js` | `VsCode` | `Cursor`
 
 💬 **Ask me about:**  
 Frontend Development, React Ecosystem, State Management, Testing, and Modern Web Technologies  
@@ -27,38 +27,11 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=fff) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)  
 
 ### ⚙️ Backend & Tools  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) ![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="35"/>
 
 ### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesarisoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=enesarisoy&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesarisoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=python,c%2B%2B" height="180" alt="Most Used Languages"/>
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <!-- Temel Diller -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="50" />
-  
-  <!-- Framework & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,bootstrap,sass" height="50" />
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
-</p>
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
