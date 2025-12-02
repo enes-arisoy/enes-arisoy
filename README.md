@@ -24,10 +24,16 @@ Frontend Development, React Ecosystem, State Management, Testing, and Modern Web
 ![GitHub followers](https://img.shields.io/github/followers/enes-arisoy?label=Takipçi&style=for-the-badge)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/enes-arisoy/enes-arisoy?color=green&style=for-the-badge)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enes-arisoy&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-arisoy&layout=compact&theme=radical" height="170"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=enes-arisoy&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-arisoy&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
