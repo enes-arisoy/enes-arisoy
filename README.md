@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes Arısoy  
 
-💻 **Frontend Developer** | ⚛️ **React Developer** | 🖥️ **Software Developer**  
+💻 **Frontend Developer** | ⚛️ **React Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
 
 ---
 
@@ -22,17 +22,6 @@ Frontend Development, React & React Native Ecosystem, State Management, Testing,
 ![GitHub commit count](https://komarev.com/ghpvc/?username=enes-arisoy&color=blue&style=flat-square)  
 ![GitHub followers](https://img.shields.io/github/followers/enes-arisoy?label=Takipçi&style=for-the-badge)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/enes-arisoy/enes-arisoy?color=green&style=for-the-badge)  
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=enes-arisoy&show_icons=true&theme=radical&rank_icon=github" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-arisoy&layout=compact&theme=radical" 
-    height="165"
-  />
-</div>
 
 ---
 
@@ -56,6 +45,23 @@ Frontend Development, React & React Native Ecosystem, State Management, Testing,
 ### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff) ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff)  
 
+---
+### 📱 **Mobile – React Native**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="50" />
+</div>
+
+---
+
+### 🌐 **MERN Stack**
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" />
+</div>
 
 ---
 
