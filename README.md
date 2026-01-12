@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes Arısoy  
 
-💻 **Frontend Developer** | 💻 **Backend Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
+💻 **Frontend Developer** | 💻 **Backend Developer** | 📱 **Mobile Developer** | 🖥️ **Software Developer**  
 
 ---
 
