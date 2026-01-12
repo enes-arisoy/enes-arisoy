@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Enes Arısoy  
 
-💻 **Frontend Developer** | ⚛️ **React Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
+💻 **Fullstack Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
 
 ---
 
 ## 🚀 About Me  
 🌱 Currently working with:  
 `Html5` | `Css3` | `Scss` | `Bootstrap` | `Git` | `JS` | `JSON` | `DOM` | `VDOM` | `API` | `GitHub` |  
-`React` | `React Native` | `Redux` | `Redux-Toolkit` | `TanStack Query` | `Node.js` | `Npm` | `Unit Testing` | `TypeScript` | `Tailwind CSS` | `Firebase` | `Next.js` | `VsCode` | `Cursor`
+`React` | `React Native` | `Redux` | `Redux-Toolkit` | `TanStack Query` | `Node.js` | `Npm` | `Unit Testing` | `TypeScript` | `Tailwind CSS` | `Firebase` | `Next.js` | `VsCode` | `Cursor` | 'ExpressJs' | 'MongoDB'
 
 💬 **Ask me about:**  
 Frontend Development, React & React Native Ecosystem, State Management, Testing, and Modern Web Technologies  
