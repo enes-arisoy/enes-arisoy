@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes Arısoy  
 
-💻 **Fullstack Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
+💻 **Frontend Developer** | 💻 **Backend Developer** | 🖥️ **Software Developer** | 📱 **Mobile Developer**
 
 ---
 
