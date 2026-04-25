@@ -21,7 +21,7 @@ Frontend Development, React & React Native Ecosystem, State Management, Testing,
 
 ![GitHub commit count](https://komarev.com/ghpvc/?username=enes-arisoy&color=blue&style=flat-square)  
 ![GitHub followers](https://img.shields.io/github/followers/enes-arisoy?label=Takipçi&style=for-the-badge)  
-![GitHub last commit](https://img.shields.io/github/last-commit/enes-arisoy?color=green&style=for-the-badge)  
+![GitHub last commit](https://img.shields.io/github/last-commit/enes-arisoy/enes-arisoy?color=green&style=for-the-badge)  
 
 ---
 
